@@ -5,5 +5,6 @@ public class Ciclo {
 	private String nombre;
 	private int duracion;
 	private String asignatura;
+	private String coment;
 
 }
