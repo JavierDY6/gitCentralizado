@@ -6,6 +6,9 @@ public class Ciclo {
 	private int duracion;
 	private String comentarios;
 	private String siglas;
+	private String asignatura;
+	private String coment;
+	
 	public int getCodigo() {
 		return codigo;
 	}
@@ -43,4 +46,6 @@ public class Ciclo {
 	}
 	
 	
+	
+
 }
